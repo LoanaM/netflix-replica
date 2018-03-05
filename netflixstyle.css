@@ -1,7 +1,6 @@
 body {
   margin: 0;
 }
-
 header {
   background-color: black;
   height: 50px;
@@ -26,7 +25,33 @@ header img {
 .tfimage {
   width: 200px;
   height: 100px;
-  background-image: url("https://i0.wp.com/www.universalmovies.it/wp-content/uploads/2017/12/black-mirror-banner.jpg?fit=648%2C365&ssl=1");
   background-size: cover;
   margin: 10px;
+}
+.tf1 {
+  background-image: url("https://i0.wp.com/www.universalmovies.it/wp-content/uploads/2017/12/black-mirror-banner.jpg?fit=648%2C365&ssl=1");
+}
+.tf2 {
+  background-image: url(http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/himym_title.jpg?itok=xeQfz8B7);
+}
+.tf3 {
+  background-image: url(https://mr.comingsoon.it/imgdb/SerieTV/news/1/54274_ppl.jpg);
+}
+.tf4 {
+  background-image: url(https://www.tvserial.it/wp-content/uploads/2016/10/dexter-copertina.jpg);
+}
+.tf5 {
+  background-image: url(https://www.taxidrivers.it/wp-content/uploads/2018/01/david-letterman..-1024x573.jpg);
+}
+.tf6 {
+  background-image: url(http://www.projectnerd.it/wp-content/uploads/2017/12/Dirk-Gently.jpg);
+}
+.tf7 {
+  background-image: url(http://is5.mzstatic.com/image/thumb/Video69/v4/03/60/e2/0360e25c-98ba-8404-3fe5-702ed812f0aa/source/227x227bb.jpg);
+}
+.tf8 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/e/ea/LovesickPromo.jpg);
+}
+.tf9 {
+  background-image: url(http://www.serialminds.com/wp-content/uploads/2016/09/Friends.png);
 }
