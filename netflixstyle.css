@@ -19,6 +19,7 @@ header img {
 .tfcontainer {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   background-color: #2f2f2f;
   padding: 10px;
 }
